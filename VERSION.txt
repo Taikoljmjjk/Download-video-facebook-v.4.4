@@ -1,0 +1,5 @@
+TAI LE MMO Facebook Downloader V4.2
+- Mobile status layout fix
+- Chrome impersonation for yt-dlp
+- More Page/Reels candidate URLs
+- Clear Facebook server-block diagnostics
